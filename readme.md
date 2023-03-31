@@ -57,14 +57,9 @@ structure.sortFolder(Folder);
 
 ## Links
 
-- [Support Discord server](https://dsc.gg/ole_is_live)
 - [GitHub](https://github.com/Ole-is-live/node-file-structure)
 - [NPM](https://www.npmjs.com/package/node-file-structure)
 
 ## Contributing
 
 Before creating an issue, please ensure that it hasn't already been reported!
-
-## Help
-
-If you do not understand something in the documentation, if you have problems or you need support, then do not hesitate to join the official [Server](https://dsc.gg/ole_is_live).
