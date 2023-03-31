@@ -54,7 +54,6 @@ structure.sortFolder(Folder);
 
 ### Features
 - ✅ Sort by file extensions
-- ❌ Sort by file creation date
 
 ## Links
 
